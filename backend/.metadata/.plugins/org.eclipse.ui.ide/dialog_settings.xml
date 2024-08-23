@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\alquiler"/>
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\eureka\eureka"/>
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\eureka"/>
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\books\books"/>
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\books"/>
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\Books\books"/>
+			<item value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\Books"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="273"/>
+			<item key="DIALOG_Y_ORIGIN" value="170"/>
+			<item key="DIALOG_WIDTH" value="935"/>
+			<item key="DIALOG_HEIGHT" value="726"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+</section>

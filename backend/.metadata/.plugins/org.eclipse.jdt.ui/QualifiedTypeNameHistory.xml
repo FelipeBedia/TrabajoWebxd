@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.unir.books.service.BooksService"/>
+    <fullyQualifiedTypeName name="com.unir.books.data.BookRepository"/>
+    <fullyQualifiedTypeName name="com.unir.books.model.request.CreateBookRequest"/>
+</qualifiedTypeNameHistroy>
