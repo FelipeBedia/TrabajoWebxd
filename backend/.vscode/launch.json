@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GatewayApplication",
+            "request": "launch",
+            "mainClass": "com.unir.gateway.GatewayApplication"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -22,14 +28,20 @@
             "name": "BooksApplication",
             "request": "launch",
             "mainClass": "com.unir.books.BooksApplication",
-            "projectName": "books"
+            "projectName": "books",
+            "noDebug": false,
+            "__progressId": "22dcefb2-6387-4868-ba56-f2720cc8195a",
+            "__origin": "internal"
         },
         {
             "type": "java",
             "name": "EurekaApplication",
             "request": "launch",
             "mainClass": "com.unir.eureka.EurekaApplication",
-            "projectName": "eureka"
+            "projectName": "eureka",
+            "noDebug": false,
+            "__progressId": "eb3251d4-bee1-46df-adf4-29952461adc3",
+            "__origin": "internal"
         }
     ]
 }

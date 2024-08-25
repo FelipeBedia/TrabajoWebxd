@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="filters_last_used" value="filter_imports;"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\gomez\Downloads\Actividad_3_grupal\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\gomez\OneDrive\Documentos\Unir\Maestria_ing_soft_ciberseg\Desarrollo web\Actividad_3\backend\books\src\main\resources\static"/>
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
@@ -29,7 +29,7 @@
 	<section name="quick_assist_proposal_size">
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item key="pageIndex" value="0"/>
+		<item key="pageIndex" value="2"/>
 	</section>
 	<section name="JavaBuildConfigurationBlock">
 		<item key="expanded0" value="true"/>

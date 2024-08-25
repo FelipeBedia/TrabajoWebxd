@@ -43,16 +43,17 @@ public class BooksServicelmpl implements BooksService {
 	 public Book createBook(CreateBookRequest request) {
 	 if (request != null && StringUtils.hasLength(request.getTitulo().trim()) 
 			 && StringUtils.hasLength(request.getAutor().trim())
-			 && StringUtils.hasLength(request.getAno_publicacion().trim()) 
+			 && StringUtils.hasLength(request.getAnioPublicacion().trim()) 
 			 && StringUtils.hasLength(request.getIsbn10().trim())
 			 && StringUtils.hasLength(request.getIsbn13().trim())
-			 && StringUtils.hasLength(request.getImagen_portada().trim())
-			 && StringUtils.hasLength(request.getSinopsis().trim()) 
-			 && request.getVisible () != null) {
+			 && StringUtils.hasLength(request.getImagenPortada().trim())
+			 && StringUtils.hasLength(request.getCriticas().trim())
+			 && StringUtils.hasLength(request.getSinopsis().trim())
+			 && request.getVisible() != null) {
 		 Book book = 
 			 Book.builder().titulo(request.getTitulo()).autor(request.getAutor()).
-			 ano_publicacion(request.getAno_publicacion()).isbn10(request.getIsbn10()).
-			 isbn13(request.getIsbn13()).imagen_portada(request.getImagen_portada()).
+			 anioPublicacion(request.getAnioPublicacion()).isbn10(request.getIsbn10()).
+			 isbn13(request.getIsbn13()).imagenPortada(request.getImagenPortada()).
 			 sinopsis(request.getSinopsis()).visible(request.getVisible()).build();
 			  return repository.save(book);
 			  } else {
